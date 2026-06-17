@@ -3,7 +3,8 @@
 ![Banner](banner.jpeg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/qwertyonek/dns-openwrt-filter)
+[![Version](https://img.shields.io/badge/version-1.1-blue.svg)](https://github.com/qwertyonek/dns-openwrt-filter)
+[![Database](https://img.shields.io/badge/Database-Auto--Update-green.svg)](https://github.com/qwertyonek/dns-openwrt-filter/actions)
 [![OpenWrt](https://img.shields.io/badge/Support-OpenWrt-orange.svg)](https://openwrt.org)
 
 **DNS OpenWrt Filter** — это расширение для браузера, которое помогает найти роутеры с поддержкой OpenWrt в каталоге интернет-магазина DNS. Больше не нужно копировать название каждой модели и проверять её в Table of Hardware — расширение сделает это за вас прямо на странице магазина.
@@ -16,6 +17,7 @@
 - **Интеграция с Firmware Selector:** В каждой карточке товара появляется кнопка для быстрого перехода к прошивке.
 - **Копирование в один клик:** При нажатии на кнопку название модели автоматически копируется в буфер обмена для вставки в OpenWrt Firmware Selector.
 - **Оптимизированный движок:** Скрипт работает быстро, не тормозит страницу и учитывает динамическую подгрузку товаров при скролле.
+- **Авто-обновление базы:** Вам не нужно ничего скачивать вручную. База поддерживаемых устройств обновляется автоматически каждую неделю через GitHub Actions.
 
 ---
 
@@ -23,7 +25,7 @@
 
 Поскольку расширение находится в разработке, оно устанавливается в "режиме разработчика":
 
-1.  **Скачайте проект:** Склонируйте репозиторий или скачайте архив `dns-openwrt-filter.zip`.
+1.  **Скачайте проект:** Склонируйте репозиторий или скачайте архив [**dns-openwrt-filter.zip**](https://github.com/qwertyonek/dns-openwrt-filter/raw/main/dns-openwrt-filter.zip).
 2.  **Распакуйте:** Если скачали ZIP, распакуйте его в удобную папку.
 3.  **Откройте браузер:** Перейдите по адресу `chrome://extensions/` (или `edge://extensions/`).
 4.  **Режим разработчика:** Включите тумблер **"Режим разработчика"** (Developer mode) в правом верхнем углу.
@@ -42,12 +44,15 @@
 
 ## 🛠 Для разработчиков
 
-База поддерживаемых устройств хранится в `supported_devices.json`. Она генерируется скриптом `process_data.py` на основе официального дампа `toh.json` от OpenWrt.
+База поддерживаемых устройств хранится в `supported_devices.json`. Она обновляется автоматически раз в неделю по воскресеньям. Если вы хотите обновить её вручную:
 
+1. Запустите Workflow в разделе **Actions** на GitHub.
+2. Или запустите локально:
 ```bash
-# Обновление базы (требуется toh.json)
+# Требуется toh.json
 python3 process_data.py
 ```
+
 
 ---
 
