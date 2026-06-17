@@ -4,6 +4,9 @@
   "version": "1.0",
   "description": "Фильтр для поиска роутеров с поддержкой OpenWrt на сайте DNS",
   "permissions": ["storage"],
+  "host_permissions": [
+    "https://raw.githubusercontent.com/qwertyonek/dns-openwrt-filter/*"
+  ],
   "content_scripts": [
     {
       "matches": ["*://*.dns-shop.ru/catalog/*wi-fi-routery*"],
