@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "DNS OpenWrt Filter",
+  "version": "1.0",
+  "description": "Фильтр для поиска роутеров с поддержкой OpenWrt на сайте DNS",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.dns-shop.ru/catalog/*wi-fi-routery*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["supported_devices.json"],
+      "matches": ["*://*.dns-shop.ru/*"]
+    }
+  ]
+}

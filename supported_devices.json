@@ -1,0 +1,2108 @@
+{
+  "HAME": [
+    "MPR-A1",
+    "MPR-A2"
+  ],
+  "ABT": [
+    "ASR3000"
+  ],
+  "CUDY": [
+    "AP1300 OUTDOOR",
+    "C200P",
+    "LT300",
+    "LT400E",
+    "M1200",
+    "M1300",
+    "M1800",
+    "M3000",
+    "R700",
+    "RE3000",
+    "TR1200",
+    "TR3000",
+    "WR1000",
+    "WR1300",
+    "WR2100",
+    "WR3000",
+    "WR3000E",
+    "WR3000H",
+    "WR3000P",
+    "WR3000S",
+    "X6"
+  ],
+  "LENOVO": [
+    "NEWIFI D1",
+    "NEWIFI MINI Y1",
+    "NEWIFI Y1S"
+  ],
+  "HOOTOO": [
+    "HT-TM01 (TRIPMATE)",
+    "HT-TM02 (TRIPMATE NANO)",
+    "HT-TM03 (TRIPMATE MINI)",
+    "HT-TM04 (TRIPMATE ELITE)",
+    "HT-TM05 (TRIPMATE TITAN)",
+    "HT-TM06 (TRIPMATE ELITE U)",
+    "TRIPMATE",
+    "TRIPMATE ELITE",
+    "TRIPMATE ELITE U",
+    "TRIPMATE MINI",
+    "TRIPMATE NANO",
+    "TRIPMATE TITAN"
+  ],
+  "MAGINON": [
+    "MC-1200",
+    "MC-1200AC"
+  ],
+  "RAVPOWER": [
+    "FILEHUB PLUS",
+    "RP-WD009",
+    "RP-WD02",
+    "RP-WD03 (FILEHUB PLUS)"
+  ],
+  "ROQOS": [
+    "CORE RC10"
+  ],
+  "PATRIOT MEMORY": [
+    "GAUNTLET NODE"
+  ],
+  "NEXX": [
+    "WT1520F",
+    "WT1520H",
+    "WT3020A",
+    "WT3020AD",
+    "WT3020F",
+    "WT3020H"
+  ],
+  "MTC": [
+    "WR1201"
+  ],
+  "SINOVOIP": [
+    "BANANA PI BPI-R3 MINI",
+    "BANANA PI BPI-RV2",
+    "BANANA PI R2 PRO"
+  ],
+  "SAMSUNG": [
+    "CY-SWR1100"
+  ],
+  "KONKA": [
+    "KOMI A31"
+  ],
+  "GATONETWORKS": [
+    "GDSP"
+  ],
+  "4G SYSTEMS": [
+    "ACCESSCUBE (MESHCUBE)",
+    "MESHCUBE",
+    "S3AC2100"
+  ],
+  "FIREFLY": [
+    "FIREWRT"
+  ],
+  "EVALUATION BOARDS / UNBRANDED BOARDS": [
+    "A5-V11",
+    "ATHEROS DB120",
+    "MEDIATEK MT7622 RFB1",
+    "MEDIATEK MT7628AN EVAL BOARD",
+    "MT7986A RFB",
+    "MT7986B RFB",
+    "MT7988A RFB",
+    "QUALCOMM AP143",
+    "QUALCOMM AP148",
+    "QUALCOMM AP161",
+    "RALINK MT7620A + MT7530 EVALUATION BOARD",
+    "RALINK MT7620A + MT7610E EVALUATION BOARD",
+    "RALINK MT7620A EVALUATION BOARD",
+    "RALINK MT7620A V22SG HIGH POWER EVALUATION BOARD",
+    "WR512 3GN",
+    "XDX-RN502J"
+  ],
+  "AMPED WIRELESS": [
+    "ALLY-R1900K"
+  ],
+  "PISEN": [
+    "CLOUD EASY POWER",
+    "TS-D084",
+    "WMM003N (CLOUD EASY POWER)"
+  ],
+  "QIHOO": [
+    "360T7",
+    "360V6"
+  ],
+  "ZIO": [
+    "FREEZIO"
+  ],
+  "ROSTELECOM": [
+    "RT-FE-1A",
+    "RT-FL-1",
+    "RT-SF-1",
+    "S1010"
+  ],
+  "ITUS NETWORKS": [
+    "SHIELD"
+  ],
+  "Z-ROUTER": [
+    "ZR-2660"
+  ],
+  "PC ENGINES": [
+    "APU1D",
+    "APU1D4",
+    "APU2B2",
+    "APU2B4",
+    "APU2C0",
+    "APU2C2",
+    "APU2C4",
+    "APU2D0",
+    "APU2D2",
+    "APU2D4",
+    "APU2E0",
+    "APU2E2",
+    "APU2E4",
+    "APU2E5",
+    "APU3A2",
+    "APU3C2",
+    "APU3C4"
+  ],
+  "I-O DATA": [
+    "ETG3-R",
+    "WN-AC1167DGR",
+    "WN-AC1167GR",
+    "WN-AC1600DGR",
+    "WN-AC1600DGR2",
+    "WN-AC1600DGR3",
+    "WN-AC733GR3",
+    "WN-AG300DGR",
+    "WN-AX1167GR",
+    "WN-AX1167GR2",
+    "WN-AX2033GR",
+    "WN-DAX3000GR",
+    "WN-DEAX1800GR",
+    "WN-DX1167R",
+    "WN-DX1200GR",
+    "WN-DX2033GR",
+    "WN-GX300GR",
+    "WNPR2600G"
+  ],
+  "DASAN": [
+    "H660GM-A"
+  ],
+  "KUWFI": [
+    "C910",
+    "N650"
+  ],
+  "ATMEL": [
+    "ATNGW100"
+  ],
+  "FON": [
+    "FONERA 2.0G",
+    "FONERA 2.0N",
+    "FONERA SIMPL JAPAN FON2601",
+    "FONERA+",
+    "LA FONERA"
+  ],
+  "PHICOMM": [
+    "K1 K1S (PSG1208)",
+    "K2 (PSG1218)",
+    "K2C (PSG1218)",
+    "K2G",
+    "K2P",
+    "K2T",
+    "K3",
+    "KE2P",
+    "PSG1208",
+    "PSG1218"
+  ],
+  "H3C": [
+    "MAGIC NX30 PRO",
+    "TX1800 PLUS",
+    "TX1801 PLUS",
+    "TX1806"
+  ],
+  "TAMA": [
+    "W06"
+  ],
+  "MERAKI": [
+    "MINI",
+    "MR18",
+    "MR24",
+    "MR30H",
+    "MX100",
+    "MX60",
+    "MX60W",
+    "MX64",
+    "MX65",
+    "MX65W",
+    "Z1",
+    "Z3"
+  ],
+  "MERCUSYS": [
+    "MR70X",
+    "MR80X",
+    "MR85X",
+    "MR90X"
+  ],
+  "ALCATEL": [
+    "HH40V"
+  ],
+  "HIWIFI/GEE": [
+    "HC5611",
+    "HC5661",
+    "HC5661A",
+    "HC5761",
+    "HC5761A",
+    "HC5861",
+    "HC5861B",
+    "HC5962",
+    "HC6361"
+  ],
+  "BOLT": [
+    "ARION",
+    "BL100"
+  ],
+  "MERCURY": [
+    "M301",
+    "MAC1200R",
+    "MW150R",
+    "MW4530R"
+  ],
+  "WATCHGUARD": [
+    "DS1AE3",
+    "DS3AE3",
+    "FIREBOX M300",
+    "FIREBOX T10 (DS1AE3)",
+    "FIREBOX T10-W (DS3AE3)",
+    "FIREBOX T15 (MS1AE3)",
+    "FIREBOX T15-W (MS1AE3W)",
+    "MS1AE3",
+    "MS1AE3W",
+    "XTM330"
+  ],
+  "ARGUS": [
+    "ATP-52B"
+  ],
+  "NOKIA": [
+    "EA0326GMP"
+  ],
+  "STRONG": [
+    "1200"
+  ],
+  "T-COM / TELEKOM": [
+    "SPEEDPORT W 303V TYP B",
+    "SPEEDPORT W 504V"
+  ],
+  "XZWIFI": [
+    "CREATIVEBOX"
+  ],
+  "HUASIFEI": [
+    "WH3000",
+    "WS1208V2"
+  ],
+  "SOPHOS": [
+    "RED 15W",
+    "SG 105",
+    "SG 105W",
+    "SG 115",
+    "SG 125",
+    "SG 135W",
+    "XG 105",
+    "XG 125W",
+    "XG 85W",
+    "XG 86"
+  ],
+  "NEXAIRA": [
+    "BC2"
+  ],
+  "MOFI NETWORK": [
+    "MOFI5500"
+  ],
+  "BT": [
+    "HOME HUB 1",
+    "HOME HUB 2",
+    "HOME HUB 3",
+    "HOME HUB 5"
+  ],
+  "QXWLAN": [
+    "E2600AC",
+    "E558",
+    "E750A"
+  ],
+  "MTS": [
+    "WG430223"
+  ],
+  "SMARTRG": [
+    "SDG-841T6",
+    "SDG-8612",
+    "SDG-8614",
+    "SDG-8733",
+    "SDG-8733A",
+    "SDG-8734",
+    "SR400AC",
+    "SR505N"
+  ],
+  "SIM": [
+    "SIMAX1800T",
+    "SIMAX1800U"
+  ],
+  "HEAD WEBLINK": [
+    "HDRM200"
+  ],
+  "ALLNET": [
+    "ALL0239-3G",
+    "ALL0256N",
+    "ALL0258",
+    "ALL0258N",
+    "ALL0277",
+    "ALL0305"
+  ],
+  "YOUKU": [
+    "X2",
+    "YK-L1C",
+    "YK-L2",
+    "YK1, YK-L1, YK-L1W"
+  ],
+  "ZTE": [
+    "DREITUBE",
+    "MF18A",
+    "MF281",
+    "MF282 PLUS (DREITUBE)",
+    "MF283PLUS",
+    "MF286",
+    "MF286A",
+    "MF286C",
+    "MF286D",
+    "MF286R",
+    "MF287",
+    "MF289F",
+    "Q7",
+    "ZXECS EBG3130",
+    "ZXHN H218N"
+  ],
+  "KROKS": [
+    "KNDRT31R16",
+    "KNDRT31R19",
+    "KNDRT31R27",
+    "KNDRT31R33",
+    "KNDRT31R34",
+    "KNDRT31R4",
+    "KNDRT41R1",
+    "RT-BRD DS E (KNDRT31R4)",
+    "RT-BRD E (KNDRT31R34)",
+    "RT-BRD RSIM DS EQ-EP (KNDRT31R19)",
+    "RT-BRD RSIM E (KNDRT31R33)",
+    "RT-CSE M6 (KNDRT31R27)",
+    "RT-CSE M6-G (KNDRT41R1)",
+    "RT-CSE SIM INJECTOR DS (KNDRT31R16)"
+  ],
+  "DUAL-Q": [
+    "H721"
+  ],
+  "LAVA": [
+    "LR-25G001"
+  ],
+  "D-LINK": [
+    "AQUILA PRO AI M30",
+    "AQUILA PRO AI M60",
+    "COVR-C1200",
+    "DAP-1350",
+    "DGL-5500",
+    "DIR-1360",
+    "DIR-1935",
+    "DIR-1960",
+    "DIR-2055",
+    "DIR-2150",
+    "DIR-2640",
+    "DIR-2660",
+    "DIR-300",
+    "DIR-3040",
+    "DIR-320",
+    "DIR-330",
+    "DIR-505",
+    "DIR-510L",
+    "DIR-600",
+    "DIR-601",
+    "DIR-610",
+    "DIR-615",
+    "DIR-620",
+    "DIR-629",
+    "DIR-632",
+    "DIR-645",
+    "DIR-685",
+    "DIR-806A",
+    "DIR-810L",
+    "DIR-825",
+    "DIR-835",
+    "DIR-842",
+    "DIR-853",
+    "DIR-859",
+    "DIR-860L",
+    "DIR-865L",
+    "DIR-867",
+    "DIR-869",
+    "DIR-878",
+    "DIR-882",
+    "DIR-885L",
+    "DIR-890L",
+    "DIR-X1550",
+    "DIR-X1860",
+    "DSL-2650",
+    "DSL-2650U/BRU/D",
+    "DWL-2100",
+    "DWL-2100AP",
+    "DWR-116",
+    "DWR-118",
+    "DWR-512",
+    "DWR-921",
+    "DWR-922",
+    "DWR-960",
+    "EAGLE PRO AI M32",
+    "EAGLE PRO AI R32",
+    "EBR-2310"
+  ],
+  "ACCTON": [
+    "WR6202"
+  ],
+  "LUNZN": [
+    "FASTRHINO R66S"
+  ],
+  "ORAYBOX": [
+    "X1",
+    "X3A"
+  ],
+  "MB CONNECT LINE": [
+    "MDH 610"
+  ],
+  "CISCO": [
+    "ON100-K9",
+    "VALET M10",
+    "VALET PLUS M20",
+    "VEDGE 1000",
+    "WRVS4400N"
+  ],
+  "NETCRAZE": [
+    "NC-1812"
+  ],
+  "RUIJIE": [
+    "RG-EW1200G PRO",
+    "RG-EW3200GX PRO",
+    "RG-X60 PRO"
+  ],
+  "AZTECH": [
+    "HW550-3G"
+  ],
+  "EDIMAX": [
+    "BR-6208",
+    "BR-6208AC",
+    "BR-6475",
+    "BR-6475ND",
+    "BR-6478",
+    "BR-6478AC",
+    "EW-7478",
+    "EW-7478APC",
+    "GEMINI RG21S",
+    "NS-1500",
+    "NS-1500N",
+    "RA21S"
+  ],
+  "GEHUA": [
+    "GHL-R-001"
+  ],
+  "QNAP": [
+    "QHORA-301W"
+  ],
+  "BDCOM": [
+    "WAP2100-SK"
+  ],
+  "JCG": [
+    "JHR-AC876M",
+    "JHR-N805R",
+    "JHR-N825R",
+    "JHR-N926R",
+    "Q20",
+    "Q30 PRO",
+    "Y2"
+  ],
+  "RAISECOM": [
+    "MSG1500 X.00"
+  ],
+  "WALLYS": [
+    "DR344-NAS27"
+  ],
+  "GL.INET": [
+    "6408A",
+    "6416A",
+    "AMAROK",
+    "BERYL",
+    "BERYL 7",
+    "BERYL AX",
+    "BRUME",
+    "BRUME 2",
+    "BRUME-W",
+    "COLLIE",
+    "CONVEXA-B",
+    "CONVEXA-S",
+    "CRETA",
+    "FLINT",
+    "FLINT 2",
+    "GL-A1300 (SLATE PLUS)",
+    "GL-AR150",
+    "GL-AR300",
+    "GL-AR300M",
+    "GL-AR300M-LITE",
+    "GL-AR300M16",
+    "GL-AR750 (CRETA)",
+    "GL-AR750S (SLATE)",
+    "GL-AX1800 (FLINT)",
+    "GL-AXT1800 (SLATE AX)",
+    "GL-B1300 (CONVEXA-B)",
+    "GL-B2200 (VELICA)",
+    "GL-B3000 (MARBLE)",
+    "GL-MIFI",
+    "GL-MT1300 (BERYL)",
+    "GL-MT2500/GL-MT2500A (BRUME 2)",
+    "GL-MT3000 (BERYL AX)",
+    "GL-MT300A",
+    "GL-MT300N (MANGO)",
+    "GL-MT3600BE (BERYL 7)",
+    "GL-MT6000 (FLINT 2)",
+    "GL-MT750",
+    "GL-MV1000 (BRUME)",
+    "GL-MV1000W (BRUME-W)",
+    "GL-S1300 (CONVEXA-S)",
+    "GL-S200",
+    "GL-USB150",
+    "GL-X1200 (AMAROK)",
+    "GL-X3000 (SPITZ AX)",
+    "GL-X300B (COLLIE)",
+    "GL-X750 (SPITZ)",
+    "GL-XE3000 (PULI AX)",
+    "MANGO",
+    "MARBLE",
+    "MICROUTER-N300",
+    "PULI AX",
+    "SLATE",
+    "SLATE AX",
+    "SLATE PLUS",
+    "SPITZ",
+    "SPITZ AX",
+    "VELICA",
+    "VIXMINI"
+  ],
+  "CREALITY": [
+    "BOX WB01"
+  ],
+  "SAMKNOWS": [
+    "SK-WB8"
+  ],
+  "DEVOLO": [
+    "DLAN HOTSPOT",
+    "DLAN PRO 1200+ WIFI AC",
+    "DLAN PRO WIRELESS 500 PLUS",
+    "MAGIC 2 WIFI"
+  ],
+  "DELL": [
+    "EMC EDGE620"
+  ],
+  "DNA": [
+    "VALOKUITU PLUS EX400"
+  ],
+  "PLANEX": [
+    "DB-WRT01",
+    "MZK-750DHP",
+    "MZK-DP150N",
+    "MZK-W04NU",
+    "MZK-W300NH",
+    "MZK-W300NH2",
+    "MZK-WDPR",
+    "VR500"
+  ],
+  "TOZED": [
+    "ZLT S12 PRO"
+  ],
+  "ALFA NETWORK": [
+    "AC1200RM",
+    "AP120C",
+    "AP121",
+    "AP121FE",
+    "AP96",
+    "AX1800RM",
+    "HORNET-UB / AP121 / AP121U",
+    "HORNET-UB X2",
+    "N5",
+    "QUAD-E4G",
+    "R36A",
+    "R36M-E4G"
+  ],
+  "SMC": [
+    "SMCWBR11S-3GN"
+  ],
+  "ETISALAT": [
+    "S3"
+  ],
+  "AFOUNDRY": [
+    "EW1200"
+  ],
+  "AIRLIVE": [
+    "AIR3GII"
+  ],
+  "SEEED": [
+    "1432",
+    "LINKSTAR H68K (1432)",
+    "LINKSTAR-H28K"
+  ],
+  "HINLINK": [
+    "H28K"
+  ],
+  "US ROBOTICS": [
+    "USR8200"
+  ],
+  "NEC": [
+    "ATERM WF1200CR",
+    "ATERM WF1200HP",
+    "ATERM WF1200HP2",
+    "ATERM WG1200CR",
+    "ATERM WG1400HP",
+    "ATERM WG1800HP",
+    "ATERM WG1800HP2",
+    "ATERM WG2200HP",
+    "ATERM WG2600HP",
+    "ATERM WG2600HP2",
+    "ATERM WG2600HP3",
+    "ATERM WG600HP",
+    "ATERM WG800HP",
+    "ATERM WR8750N",
+    "ATERM WR9500N"
+  ],
+  "OMYLINK": [
+    "OMY-G1"
+  ],
+  "JOTALE": [
+    "JS7628",
+    "JS7688"
+  ],
+  "E-LIFE": [
+    "ETR631-T",
+    "ETR635-U"
+  ],
+  "TURRIS CZ.NIC": [
+    "MOX",
+    "OMNIA",
+    "SHIELD",
+    "TURRIS"
+  ],
+  "TELCO ELECTRONICS": [
+    "T1"
+  ],
+  "COMFAST": [
+    "CF-E120A",
+    "CF-E313AC",
+    "CF-E314N",
+    "CF-E316N",
+    "CF-E560AC",
+    "CF-WR617AC",
+    "CF-WR632AX",
+    "CF-WR650AC",
+    "CF-WR800N"
+  ],
+  "AXIMCOM": [
+    "MR-102N"
+  ],
+  "CONFIABITS": [
+    "MT7621",
+    "MT7981"
+  ],
+  "WINSTARS": [
+    "WS-WN532A3"
+  ],
+  "VONETS": [
+    "VAR11N-300"
+  ],
+  "STORYLINK": [
+    "SAP-G3200U3"
+  ],
+  "LETV": [
+    "LBA-047-CH"
+  ],
+  "IOMEGA": [
+    "ICONNECT"
+  ],
+  "INTENO": [
+    "PULSE EX400"
+  ],
+  "BARRACUDA NETWORKS": [
+    "F12A",
+    "F18"
+  ],
+  "XIAOYU": [
+    "XY-C5"
+  ],
+  "IEI": [
+    "PUZZLE-M901",
+    "PUZZLE-M902"
+  ],
+  "SOLIDRUN": [
+    "CLEARFOG BASE",
+    "CLEARFOG PRO"
+  ],
+  "CETRON": [
+    "CT3003"
+  ],
+  "XUNLONG": [
+    "ORANGE PI R1 PLUS",
+    "ORANGE PI R1 PLUS LTS"
+  ],
+  "PAKEDGE": [
+    "WR-1"
+  ],
+  "POWERCLOUD SYSTEMS": [
+    "CR3000",
+    "CR5000"
+  ],
+  "ASUS": [
+    "4G-AX56",
+    "GT-AC5300",
+    "LYRA (MAP-AC2200)",
+    "MAP-AC2200",
+    "RT-AC1200",
+    "RT-AC1200GE",
+    "RT-AC1200GU",
+    "RT-AC1300G PLUS",
+    "RT-AC1300UHP",
+    "RT-AC1500G PLUS",
+    "RT-AC1500UHP",
+    "RT-AC3100",
+    "RT-AC3200",
+    "RT-AC42U",
+    "RT-AC51U",
+    "RT-AC5300",
+    "RT-AC53U",
+    "RT-AC54U",
+    "RT-AC56R",
+    "RT-AC56U",
+    "RT-AC57U",
+    "RT-AC58U",
+    "RT-AC59U",
+    "RT-AC65P",
+    "RT-AC66U",
+    "RT-AC68U",
+    "RT-AC85P",
+    "RT-AC87U",
+    "RT-AC88U",
+    "RT-ACRH12",
+    "RT-ACRH13",
+    "RT-ACRH17",
+    "RT-AX1800S / RT-AX1800HP",
+    "RT-AX1800U",
+    "RT-AX3000S",
+    "RT-AX52",
+    "RT-AX52 PRO",
+    "RT-AX53U",
+    "RT-AX54HP",
+    "RT-AX57M",
+    "RT-AX59U",
+    "RT-AX89X",
+    "RT-G32",
+    "RT-N10",
+    "RT-N10+",
+    "RT-N10P",
+    "RT-N10U",
+    "RT-N11P",
+    "RT-N12",
+    "RT-N12 VP",
+    "RT-N12+",
+    "RT-N12E",
+    "RT-N12HP",
+    "RT-N13U",
+    "RT-N14U",
+    "RT-N14UHP",
+    "RT-N15",
+    "RT-N15U",
+    "RT-N16",
+    "RT-N18U",
+    "RT-N53",
+    "RT-N56U",
+    "RT-N66U",
+    "RT-N66W",
+    "SRT-AC1900 ONHUB",
+    "TUF-AX4200",
+    "TUF-AX4200Q",
+    "TUF-AX6000",
+    "WL-320GE",
+    "WL-320GP",
+    "WL-330GE",
+    "WL-330N",
+    "WL-330N3G",
+    "WL-500B",
+    "WL-500G",
+    "WL-500G DELUXE",
+    "WL-500G PREMIUM",
+    "WL-500W",
+    "WL-520GU",
+    "WL-550GE",
+    "WL-600G",
+    "WL-HDD2.5",
+    "ZENWIFI",
+    "ZENWIFI BT8"
+  ],
+  "LINKSYS": [
+    "-VF",
+    "E1000",
+    "E1200",
+    "E1500",
+    "E1550",
+    "E1700",
+    "E2000",
+    "E2100L",
+    "E2500",
+    "E3000",
+    "E3200",
+    "E4200",
+    "E5300",
+    "E5350",
+    "E5400",
+    "E5600",
+    "E7350",
+    "E8350",
+    "E8450",
+    "E900",
+    "EA3500",
+    "EA4500",
+    "EA6100",
+    "EA6200",
+    "EA6300",
+    "EA6350",
+    "EA6500",
+    "EA7300",
+    "EA7500",
+    "EA8100",
+    "EA8300",
+    "EA8500",
+    "EA9200",
+    "EA9500",
+    "HOMEWRK",
+    "MR5500",
+    "MR6350",
+    "MR7350",
+    "MR7500/MR75MS/MR75WH",
+    "MR8300",
+    "MR9000",
+    "MX2000",
+    "MX4200",
+    "MX4300",
+    "MX5300",
+    "MX5500",
+    "MX6200",
+    "MX8500",
+    "RTP300",
+    "SPNMX56",
+    "WHW01",
+    "WHW03",
+    "WRT1200AC",
+    "WRT150N",
+    "WRT160N",
+    "WRT160NL",
+    "WRT1900AC",
+    "WRT1900ACS",
+    "WRT300N",
+    "WRT310N",
+    "WRT3200ACM",
+    "WRT320N",
+    "WRT32X",
+    "WRT350N",
+    "WRT350N V2",
+    "WRT400N",
+    "WRT54G",
+    "WRT54G-TM",
+    "WRT54G3GV2(-VF)",
+    "WRT54GL",
+    "WRT54GS",
+    "WRT600N",
+    "WRT610N",
+    "WRTSL54GS",
+    "WRTU54G-TM",
+    "WRV54G"
+  ],
+  "HAIER": [
+    "HAR-20S2U1"
+  ],
+  "SAGEM": [
+    "F@ST2504N",
+    "F@ST2604",
+    "F@ST2704N"
+  ],
+  "PLATHOME": [
+    "OPENBLOCKS AX3-4"
+  ],
+  "ARCADYAN / ASTORIA": [
+    "AR7516",
+    "ARV4510PW",
+    "AW1000",
+    "EASYBOX 904 LTE",
+    "MOZART",
+    "O2 BOX 6431",
+    "VGV7510KW22 (O2 BOX 6431)",
+    "VRV9510KWAC23"
+  ],
+  "EASYACC": [
+    "WI-STOR WIZARD 8800"
+  ],
+  "ITIAN": [
+    "SQUARE ONE SQ201"
+  ],
+  "NXP": [
+    "LS1021A-IOT",
+    "LS1043-NH03",
+    "T4240RDB"
+  ],
+  "YOUHUA": [
+    "WR1200JS"
+  ],
+  "P&W": [
+    "R619AC"
+  ],
+  "MQMAKER": [
+    "WITI BOARD"
+  ],
+  "UPVEL": [
+    "UR-326N4G",
+    "UR-336UN",
+    "UR-337N4G"
+  ],
+  "DONGWON": [
+    "DW02-412H"
+  ],
+  "WESTERN DIGITAL": [
+    "MY NET N600",
+    "MY NET N750",
+    "MY NET WI-FI RANGE EXTENDER"
+  ],
+  "UNIELEC": [
+    "U4019",
+    "U7621-01",
+    "U7621-06",
+    "U7623",
+    "U7628-01",
+    "U7981-01"
+  ],
+  "GOOGLE": [
+    "WIFI"
+  ],
+  "PROLINK": [
+    "PWH2004"
+  ],
+  "BELKIN": [
+    "AC 1750 DB",
+    "F5D8230-4",
+    "F5D8235-4",
+    "F7D3301 (SHARE MAX)",
+    "F7D3302 (SHARE)",
+    "F7D4301 (PLAY MAX)",
+    "F7D4302 (PLAY)",
+    "F7D4401 (PLAY)",
+    "F9J1108",
+    "F9K1109",
+    "F9K1115 (AC 1750 DB)",
+    "PLAY",
+    "PLAY MAX",
+    "RT1800",
+    "RT3200",
+    "SHARE",
+    "SHARE MAX"
+  ],
+  "GAINSTRONG": [
+    "MINIBOX"
+  ],
+  "WIDEMAC": [
+    "SL-R7205"
+  ],
+  "HUAWEI": [
+    "E970",
+    "HG255D",
+    "HG556A"
+  ],
+  "SKYLINE": [
+    "SL-R7205"
+  ],
+  "FREECOM": [
+    "FSG-3"
+  ],
+  "EDUP": [
+    "EP-RT2960S",
+    "EP-RT2983"
+  ],
+  "AEROHIVE": [
+    "BR200-WP"
+  ],
+  "ROSEWILL": [
+    "RNX-N150RT",
+    "RNX-N300RT",
+    "RNX-N360RT"
+  ],
+  "NETGEAR": [
+    "AC2400",
+    "DGN2200",
+    "DGND3700",
+    "DGND3800B",
+    "EVG2000",
+    "FVX538",
+    "JWNR2010",
+    "LBR20",
+    "MBRN3000",
+    "ORBI 4G LTE (LBR20)",
+    "R6020",
+    "R6080",
+    "R6120",
+    "R6200",
+    "R6220",
+    "R6230",
+    "R6250",
+    "R6260",
+    "R6300",
+    "R6350",
+    "R6700",
+    "R6800",
+    "R6850",
+    "R6900",
+    "R7000",
+    "R7200",
+    "R7450",
+    "R7500",
+    "R7800",
+    "R7900",
+    "R8000",
+    "R8000P",
+    "RAX120",
+    "RBR20",
+    "RBR350",
+    "RBR40",
+    "RBR50",
+    "RBR750",
+    "RBS40",
+    "RBS50",
+    "SRR60",
+    "SRS60",
+    "SXR80",
+    "SXS80",
+    "WAG302",
+    "WAX206",
+    "WGR614",
+    "WGT634U",
+    "WNCE2001",
+    "WNDR3300",
+    "WNDR3400",
+    "WNDR3700",
+    "WNDR37AV",
+    "WNDR3800",
+    "WNDR4000",
+    "WNDR4300",
+    "WNDR4300SW",
+    "WNDR4300TN",
+    "WNDR4500",
+    "WNDR4700",
+    "WNDR4720",
+    "WNDRMAC",
+    "WNR1000",
+    "WNR2000",
+    "WNR2200",
+    "WNR3500",
+    "WNR3500L",
+    "WNR3500U",
+    "WNR612",
+    "WNR834B",
+    "WNR854T",
+    "WPN824N",
+    "WPN824N NA",
+    "XR450",
+    "XR500"
+  ],
+  "DYNALINK": [
+    "DL-WRX36"
+  ],
+  "OPENFI": [
+    "5PRO",
+    "6C"
+  ],
+  "KEENETIC": [
+    "4G",
+    "CARRIER",
+    "EXPLORER",
+    "EXTRA",
+    "HOPPER",
+    "KEENETIC",
+    "KEENETIC 4G",
+    "KEENETIC 4G III",
+    "KEENETIC EXTRA II",
+    "KEENETIC LITE",
+    "KEENETIC LITE III",
+    "KEENETIC OMNI",
+    "KEENETIC OMNI II",
+    "KEENETIC START",
+    "KEENETIC START II",
+    "KEENETIC VIVA",
+    "KN-1110",
+    "KN-1110 (START)",
+    "KN-1111",
+    "KN-1111 (START/STARTER)",
+    "KN-1112",
+    "KN-1112 (START/STARTER)",
+    "KN-1210",
+    "KN-1210 (4G)",
+    "KN-1211",
+    "KN-1211 (4G)",
+    "KN-1212",
+    "KN-1212 (4G)",
+    "KN-1221",
+    "KN-1221 (LAUNCHER)",
+    "KN-1613",
+    "KN-1613 (EXPLORER)",
+    "KN-1711",
+    "KN-1711 (EXTRA)",
+    "KN-1713",
+    "KN-1713 (CARRIER)",
+    "KN-1910",
+    "KN-1910 (VIVA)",
+    "KN-3010",
+    "KN-3010 (SPEEDSTER)",
+    "KN-3811",
+    "KN-3811 (HOPPER)",
+    "LAUNCHER",
+    "SPEEDSTER",
+    "START",
+    "START/STARTER",
+    "VIVA"
+  ],
+  "ZYXEL": [
+    "4G",
+    "ARMOR G5",
+    "ARMOR Z2",
+    "CARRIER",
+    "EMG2926-Q10A",
+    "EX5601",
+    "EX5700 (TELENOR)",
+    "EXPLORER",
+    "EXTRA",
+    "HOPPER",
+    "KEENETIC",
+    "KEENETIC 4G",
+    "KEENETIC 4G III",
+    "KEENETIC EXTRA II",
+    "KEENETIC LITE",
+    "KEENETIC LITE III",
+    "KEENETIC OMNI",
+    "KEENETIC OMNI II",
+    "KEENETIC START",
+    "KEENETIC START II",
+    "KEENETIC VIVA",
+    "KN-1110",
+    "KN-1110 (START)",
+    "KN-1111",
+    "KN-1111 (START/STARTER)",
+    "KN-1112",
+    "KN-1112 (START/STARTER)",
+    "KN-1210",
+    "KN-1210 (4G)",
+    "KN-1211",
+    "KN-1211 (4G)",
+    "KN-1212",
+    "KN-1212 (4G)",
+    "KN-1221",
+    "KN-1221 (LAUNCHER)",
+    "KN-1613",
+    "KN-1613 (EXPLORER)",
+    "KN-1711",
+    "KN-1711 (EXTRA)",
+    "KN-1713",
+    "KN-1713 (CARRIER)",
+    "KN-1910",
+    "KN-1910 (VIVA)",
+    "KN-3010",
+    "KN-3010 (SPEEDSTER)",
+    "KN-3811",
+    "KN-3811 (HOPPER)",
+    "LAUNCHER",
+    "LTE3301-PLUS",
+    "LTE5398-M904",
+    "LTE7490-M904",
+    "NBG-419N",
+    "NBG4615",
+    "NBG5715",
+    "NBG6503",
+    "NBG6515",
+    "NBG6616",
+    "NBG6617",
+    "NBG6716",
+    "NBG6817 (ARMOR Z2)",
+    "NBG7815 (ARMOR G5)",
+    "NR7101",
+    "P-870HNU-51C",
+    "P8702N",
+    "SCR50AXE",
+    "SPEEDSTER",
+    "START",
+    "START/STARTER",
+    "T-56",
+    "TELENOR",
+    "VIVA",
+    "WAP3205",
+    "WSM20",
+    "WX5600-T0"
+  ],
+  "FORTINET": [
+    "FORTIGATE 30E",
+    "FORTIGATE 50E",
+    "FORTIGATE 51E",
+    "FORTIGATE 52E",
+    "FORTIWIFI 50E-2R",
+    "FORTIWIFI 51E"
+  ],
+  "ENGENIUS": [
+    "ECB1750",
+    "EMR3500",
+    "EPG5000",
+    "EPG600",
+    "ESR1200",
+    "ESR1750",
+    "ESR600",
+    "ESR600H",
+    "ESR6650",
+    "ESR900",
+    "ESR9753",
+    "ESR9850"
+  ],
+  "ATLANTIS": [
+    "A02-RB-W300N"
+  ],
+  "WODESYS": [
+    "WD-R1208U"
+  ],
+  "HONGDIAN": [
+    "H7920",
+    "H8850",
+    "H8922"
+  ],
+  "EXTREME NETWORKS": [
+    "WS-AP3805I"
+  ],
+  "HNET": [
+    "HW-C108"
+  ],
+  "SFR (SOCIÉTÉ FRANÇAISE DE RADIOTÉLÉPHONIE)": [
+    "NB4",
+    "NEUFBOX4 (NB4)"
+  ],
+  "8DEVICES": [
+    "HABANERO DVK"
+  ],
+  "LB-LINK": [
+    "BL-W1200"
+  ],
+  "IPTIME": [
+    "A1004NS",
+    "A104NS",
+    "A3",
+    "A3002MESH",
+    "A3004NS-DUAL",
+    "A3004T",
+    "A6004MX",
+    "A6004NS-M",
+    "A604M",
+    "A6NS-M",
+    "A8004T",
+    "AX2002MESH",
+    "AX2004M",
+    "AX3000M",
+    "AX3000Q",
+    "AX3000SE",
+    "AX3000SM",
+    "AX7800M-6E",
+    "T5004"
+  ],
+  "SILICOM": [
+    "CORDOBA EDGE GATEWAY IA3003.05"
+  ],
+  "SPARKLAN": [
+    "WCR-150GN"
+  ],
+  "OBSERVA": [
+    "VH4032N"
+  ],
+  "TRAVERSE": [
+    "TEN64"
+  ],
+  "TRENDNET": [
+    "TEW-632BRP",
+    "TEW-652BRP",
+    "TEW-673GRU",
+    "TEW-691GR",
+    "TEW-692GR",
+    "TEW-712BR",
+    "TEW-714TRU",
+    "TEW-732BR",
+    "TEW-810DR",
+    "TEW-823DRU",
+    "TEW-827DRU",
+    "TEW-829DRU"
+  ],
+  "PETATEL": [
+    "PSR-680W"
+  ],
+  "GEMTEK": [
+    "MXF-W1700K",
+    "WVRTM-127ACN",
+    "WVRTM-130ACN"
+  ],
+  "TENBAY": [
+    "T-MB5EU-V01",
+    "WR3000K"
+  ],
+  "TENBAY -  KUWFI": [
+    "T-MB5EU"
+  ],
+  "WEVO": [
+    "11AC NAS",
+    "W2914NS"
+  ],
+  "CREATLENTEM": [
+    "CLT-R30B1"
+  ],
+  "SERCOMM": [
+    "AD1018",
+    "H500-S LOWI",
+    "H500-S VFES",
+    "IP1006RRV2",
+    "SHG2500"
+  ],
+  "OCEDO": [
+    "PANDA"
+  ],
+  "COMTREND": [
+    "CT-536+",
+    "CT-5361",
+    "CT-5365",
+    "VG-8050",
+    "VR-3032",
+    "VR-3032U",
+    "WAP-5813",
+    "WAP-5813N"
+  ],
+  "QIHOO HARDWARE": [
+    "C301"
+  ],
+  "REYEE": [
+    "RG-E5"
+  ],
+  "HANYANG": [
+    "CJ-HELLO HYC-G920"
+  ],
+  "ROUTERICH": [
+    "AX1800",
+    "AX3000",
+    "BE7200"
+  ],
+  "MOTOROLA": [
+    "C1",
+    "MWR03 (C1)",
+    "WE800G",
+    "WR850G"
+  ],
+  "ALPHA NETWORKS": [
+    "ASL-26555"
+  ],
+  "DOVADO": [
+    "3GN",
+    "TINY AC"
+  ],
+  "ACTIONTEC": [
+    "R1000H",
+    "T1200H"
+  ],
+  "OYEWIFI": [
+    "OYE-0001"
+  ],
+  "ACER": [
+    "CONNECT VERO W6M",
+    "PREDATOR CONNECT W6",
+    "PREDATOR CONNECT W6D",
+    "PREDATOR CONNECT W6X"
+  ],
+  "CLOUDGENIX": [
+    "ION 2000"
+  ],
+  "CMCC": [
+    "A10",
+    "MR3000D-CI",
+    "PZ-L8",
+    "RAX3000M"
+  ],
+  "NETCORE": [
+    "N30PRO",
+    "N60",
+    "N60 PRO",
+    "NW5212",
+    "POWER 30AX"
+  ],
+  "ON NETWORKS": [
+    "N150R"
+  ],
+  "IMOU": [
+    "HX21"
+  ],
+  "ZBT": [
+    "WA-05",
+    "WD323",
+    "WE1326",
+    "WE1526",
+    "WE1626",
+    "WE2026",
+    "WE526 (WE1626)",
+    "WE826",
+    "WE826-E",
+    "WG108",
+    "WG1602",
+    "WG1608",
+    "WG2626",
+    "WG3526",
+    "WR8305RT",
+    "ZBT-WE2426-B",
+    "ZBT-Z800AX",
+    "ZBT-Z8102AX",
+    "ZBT-Z8103AX",
+    "ZBT-Z8103AX-PRO"
+  ],
+  "CELL C": [
+    "RTL30VW"
+  ],
+  "UBIQUITI": [
+    "AFI-R",
+    "AIRCUBE AC",
+    "AIRGATEWAY",
+    "AIRGRID M2",
+    "AIRGRID M5",
+    "AIRGRID M5 HP",
+    "AIRROUTER",
+    "AMPLIFI ROUTER (AFI-R)",
+    "AR7240",
+    "AR7241",
+    "BULLET M",
+    "BULLET M (AR7240)",
+    "BULLET M (AR7241)",
+    "EDGEPOINT R6 (EP-R6)",
+    "EDGEROUTER (ER-8)",
+    "EDGEROUTER 4",
+    "EDGEROUTER 6P (ER-6P)",
+    "EDGEROUTER LITE",
+    "EDGEROUTER PRO (ERPRO-8)",
+    "EDGEROUTER X (ER-X)",
+    "EDGEROUTER X-SFP (ER-X-SFP)",
+    "EP-R6",
+    "ER-6P",
+    "ER-8",
+    "ER-X",
+    "ER-X-SFP",
+    "ERPRO-8",
+    "LITEBEAM M5",
+    "NANOBEAM M5",
+    "NANOSTATION LOCO2",
+    "NANOSTATION M2",
+    "NANOSTATION M5",
+    "POWERBEAM 5AC GEN2",
+    "POWERBEAM M5-300",
+    "ROCKET M",
+    "ROUTERSTATION",
+    "ROUTERSTATION PRO",
+    "UNIFI AP",
+    "UNIFI AP AC LITE",
+    "UNIFI AP AC PRO",
+    "UNIFI AP OUTDOOR",
+    "UNIFI AP OUTDOOR PLUS",
+    "UNIFI SECURITY GATEWAY",
+    "UNIFI SECURITY GATEWAY 3P",
+    "UNIFI SECURITY GATEWAY PRO (USG-PRO-4)",
+    "USG-PRO-4"
+  ],
+  "SNR": [
+    "CPE-ME1",
+    "CPE-ME2-LITE",
+    "CPE-ME2-SFP",
+    "CPE-W4N",
+    "SNR-CPE-AX2"
+  ],
+  "AVM": [
+    "FRITZ!BOX 4020",
+    "FRITZ!BOX 4040",
+    "FRITZ!BOX 5490",
+    "FRITZ!BOX 7490",
+    "FRITZ!BOX 7520",
+    "FRITZ!BOX 7530"
+  ],
+  "IIJ": [
+    "SA-W2"
+  ],
+  "ADI ENGINEERING": [
+    "PRONGHORN SBC250"
+  ],
+  "SILVERCREST": [
+    "SWV 733"
+  ],
+  "ADSLR": [
+    "G7"
+  ],
+  "XIAOMI": [
+    "AIOT ROUTER AC2350",
+    "AX3000T",
+    "AX3200",
+    "AX3600",
+    "AX6000",
+    "AX6S",
+    "AX9000",
+    "BE3600",
+    "MI AIOT AX6000",
+    "MI AIOT ROUTER AX3600",
+    "MI ROUTER 3 PRO",
+    "MI ROUTER 4A",
+    "MI ROUTER 4A (MIR4A)",
+    "MI ROUTER 4A (R4AC)",
+    "MI ROUTER 4C",
+    "MI ROUTER 4Q",
+    "MI ROUTER AC2100",
+    "MI ROUTER CR6606",
+    "MI ROUTER CR6608",
+    "MI ROUTER CR6609",
+    "MI WIFI MINI",
+    "MIR4A",
+    "MIWIFI 3A",
+    "MIWIFI 3C",
+    "MIWIFI 3G",
+    "MIWIFI NANO",
+    "MIWIFI R4",
+    "R4AC",
+    "REDMI AX6",
+    "REDMI AX6000",
+    "REDMI AX6S",
+    "REDMI ROUTER AC2100",
+    "WR30U"
+  ],
+  "LONGDATA": [
+    "APS 256"
+  ],
+  "HUMAX": [
+    "E10",
+    "E2"
+  ],
+  "PORAY": [
+    "IP2202",
+    "M3",
+    "PRP-X5/X6",
+    "X8"
+  ],
+  "WAVLINK": [
+    "QUANTUM D4",
+    "QUANTUM D6",
+    "QUANTUM DAX",
+    "QUANTUM T8",
+    "WL-WN530HG4",
+    "WL-WN531A3 (QUANTUM D4)",
+    "WL-WN531A6 (QUANTUM D6)",
+    "WL-WN531G3",
+    "WL-WN531G3-A2",
+    "WL-WN532N2",
+    "WL-WN533A8 (QUANTUM T8)",
+    "WL-WN535K1",
+    "WL-WN536AX6",
+    "WL-WN551X3",
+    "WL-WN578A2",
+    "WL-WN586X3",
+    "WN531AX2"
+  ],
+  "TP-LINK": [
+    "ARCHER A5",
+    "ARCHER A6",
+    "ARCHER A7",
+    "ARCHER A9",
+    "ARCHER AX23",
+    "ARCHER C1200",
+    "ARCHER C2 AC750",
+    "ARCHER C2 AC900",
+    "ARCHER C20",
+    "ARCHER C20 AC750",
+    "ARCHER C20I",
+    "ARCHER C25",
+    "ARCHER C2600",
+    "ARCHER C5",
+    "ARCHER C5 AC1200",
+    "ARCHER C50",
+    "ARCHER C58",
+    "ARCHER C59",
+    "ARCHER C6",
+    "ARCHER C60",
+    "ARCHER C6U",
+    "ARCHER C7",
+    "ARCHER C7R WDR7500",
+    "ARCHER C8",
+    "ARCHER C9",
+    "ARCHER D50",
+    "ARCHER D7",
+    "ARCHER D7B",
+    "ARCHER MR200",
+    "ARCHER MR600",
+    "ARCHER VR2600",
+    "ARCHER VR2600V",
+    "AX80",
+    "BE450",
+    "CPE510",
+    "DECO M4R",
+    "DECO X80-5G",
+    "EC220-G5",
+    "EC330-G5U",
+    "ER605",
+    "EX220",
+    "FR205",
+    "FR365",
+    "ONHUB TGR1900",
+    "TALON AD7200",
+    "TD-W8968",
+    "TL-MR10U",
+    "TL-MR11U",
+    "TL-MR12U",
+    "TL-MR13U",
+    "TL-MR22U",
+    "TL-MR3020",
+    "TL-MR3040",
+    "TL-MR3220",
+    "TL-MR3420",
+    "TL-MR6400",
+    "TL-WA5210G",
+    "TL-WA901ND",
+    "TL-WDR3320",
+    "TL-WDR3500",
+    "TL-WDR3600",
+    "TL-WDR4300",
+    "TL-WDR4310",
+    "TL-WDR4900",
+    "TL-WDR6500",
+    "TL-WDR7500",
+    "TL-WR1041N/ND",
+    "TL-WR1043N",
+    "TL-WR1043ND",
+    "TL-WR1045ND",
+    "TL-WR2543ND",
+    "TL-WR703N",
+    "TL-WR710N",
+    "TL-WR720N",
+    "TL-WR740N",
+    "TL-WR741ND",
+    "TL-WR802N",
+    "TL-WR810N",
+    "TL-WR840N",
+    "TL-WR841HP",
+    "TL-WR841N",
+    "TL-WR841N/ND",
+    "TL-WR842N",
+    "TL-WR842ND",
+    "TL-WR843ND",
+    "TL-WR847N",
+    "TL-WR849N",
+    "TL-WR850N",
+    "TL-WR902AC",
+    "TL-WR940N",
+    "TL-WR941HP",
+    "TL-WR941N",
+    "TL-WR941ND",
+    "TL-WR942N",
+    "TL-XDR4288",
+    "TL-XDR6086",
+    "TL-XDR6088",
+    "TL-XTR8488",
+    "XX230V"
+  ],
+  "OPEN-MESH": [
+    "MR600"
+  ],
+  "EMBEDDED WIRELESS": [
+    "DORIN PLATFORM"
+  ],
+  "3COM": [
+    "3CRWER100-75"
+  ],
+  "TECOM": [
+    "GW6200"
+  ],
+  "SPECTRUM": [
+    "SAX1V1K"
+  ],
+  "LUXUL": [
+    "ABR-4500",
+    "XBR-4500",
+    "XWR-3150"
+  ],
+  "MOBIPROMO": [
+    "CM520-79F"
+  ],
+  "ZORLIK": [
+    "ZL5900"
+  ],
+  "PRPL FOUNDATION": [
+    "HAZE (WNC LVRP)",
+    "WNC LVRP"
+  ],
+  "SITECOM": [
+    "GREYHOUND",
+    "WL-341",
+    "WL-351",
+    "WLR-4100",
+    "WLR-6000",
+    "WLR-7100",
+    "WLR-8100",
+    "X8 AC1750"
+  ],
+  "TENDA": [
+    "3G150B",
+    "3G300M",
+    "AC9",
+    "BE12 PRO",
+    "W306R"
+  ],
+  "KINGSTON": [
+    "MLW221",
+    "MLWG2"
+  ],
+  "YUNCORE": [
+    "FAP640",
+    "FAP650",
+    "FAP690",
+    "G720",
+    "M300",
+    "SR3200",
+    "T830"
+  ],
+  "AIRLINK101": [
+    "AR430W",
+    "AR670W",
+    "AR725W"
+  ],
+  "JOY-IT": [
+    "JT-OR750I"
+  ],
+  "DRAGINO": [
+    "MS12",
+    "MS14"
+  ],
+  "GENEXIS": [
+    "PULSE EX400"
+  ],
+  "HI-LINK": [
+    "HLK-7621",
+    "HLK-7621A",
+    "HLK-RM04"
+  ],
+  "JDCLOUD": [
+    "ARTHUR",
+    "ATHENA",
+    "RE-CP-02",
+    "RE-CP-03",
+    "RE-CS-02",
+    "RE-CS-07 (ATHENA)",
+    "RE-SP-01B",
+    "RE-SS-01 (ARTHUR)"
+  ],
+  "PIRELLI": [
+    "ALICEGATE AGPF",
+    "DRG A226G",
+    "DRG A226M"
+  ],
+  "ARC FLEX": [
+    "FREESTATION 5"
+  ],
+  "NETIS": [
+    "M1200AC",
+    "N6",
+    "NX30",
+    "NX31",
+    "NX32U",
+    "WF2770",
+    "WF2881"
+  ],
+  "TOTOLINK": [
+    "A3",
+    "A7000R",
+    "A8000RU",
+    "BE3",
+    "BE3600R",
+    "BE5",
+    "BE5100R",
+    "LR1200",
+    "X30",
+    "X30 SE",
+    "X5000R",
+    "X60",
+    "X6000R",
+    "X6000RV2",
+    "X8000RU"
+  ],
+  "COMPEX": [
+    "MMC543HV",
+    "WP54",
+    "WP54G"
+  ],
+  "DOMYWIFI": [
+    "DM202",
+    "DM203",
+    "DW22D"
+  ],
+  "ASIARF": [
+    "AP2620",
+    "AP7621-001",
+    "AP7621-002",
+    "AP7621-IL1",
+    "AP7621-NV1",
+    "AP7622-WH1",
+    "AP7623-A02",
+    "AWAPN2403",
+    "AWM-EVB",
+    "AWM002",
+    "AWM003"
+  ],
+  "INTELLIDESIGN": [
+    "HYRAX PCP-100"
+  ],
+  "ELECOM": [
+    "WMC-M1267GST2",
+    "WMC-S1267GS2",
+    "WMC-X1800GST",
+    "WRC-1167",
+    "WRC-1167FS",
+    "WRC-1167GHBK2-S",
+    "WRC-1167GS2-B",
+    "WRC-1167GST2",
+    "WRC-1750",
+    "WRC-1750GHBK2-I/C",
+    "WRC-1750GS",
+    "WRC-1750GST2",
+    "WRC-1750GSV",
+    "WRC-1900",
+    "WRC-1900GST",
+    "WRC-2533",
+    "WRC-2533GENT",
+    "WRC-2533GHBK-I",
+    "WRC-2533GHBK2-T",
+    "WRC-2533GS2",
+    "WRC-2533GST",
+    "WRC-2533GST2",
+    "WRC-300GHBK2-I",
+    "WRC-G01",
+    "WRC-X1800GS",
+    "WRC-X3000GS2",
+    "WRC-X3200GST3",
+    "WRH-300CR"
+  ],
+  "MIKROTIK": [
+    "HAP AC",
+    "HAP AC²",
+    "HAP AC³",
+    "HEX",
+    "HEX LITE",
+    "HEX POE LITE",
+    "HEX S",
+    "LHG 2",
+    "POWERBOX",
+    "RB2011IL",
+    "RB2011ILS",
+    "RB2011L",
+    "RB2011LS",
+    "RB2011UAS",
+    "RB2011UAS-2HND",
+    "RB2011UIAS",
+    "RB2011UIAS-2HND",
+    "RB493G",
+    "RB5009UG+S+IN",
+    "RB750GR2 (HEX)",
+    "RB750GR3",
+    "RB750P-PBR2 (POWERBOX)",
+    "RB750R2 (HEX LITE)",
+    "RB750UP",
+    "RB750UPR2 (HEX POE LITE)",
+    "RB751G-2HND",
+    "RB751U-2HND",
+    "RB760IGS (HEX S)",
+    "RB962UIGS-5HACT2HNT (HAP AC)",
+    "RBD52G-5HACD2HND-TC (HAP AC²)",
+    "RBD53IG-5HACD2HND (HAP AC³)",
+    "RBLHG-2ND (LHG 2)",
+    "RBSXTSQ2ND (SXTSQ LITE2)",
+    "SXTSQ LITE2"
+  ],
+  "TELTONIKA": [
+    "RUT230",
+    "RUT300",
+    "RUT500",
+    "RUT5XX",
+    "RUT900",
+    "RUT901",
+    "RUT906",
+    "RUT951",
+    "RUT955",
+    "RUT955 H7V3C0",
+    "RUT956",
+    "RUT976",
+    "RUTC50",
+    "RUTX10",
+    "RUTX11",
+    "RUTX50"
+  ],
+  "PPLINK": [
+    "S21"
+  ],
+  "ZLMNET": [
+    "MIFIF10N"
+  ],
+  "D-TEAM": [
+    "NEWIFI D2 (NEWIFI3)",
+    "NEWIFI3",
+    "PANDORABOX"
+  ],
+  "SUPERMICRO": [
+    "SUPERSERVER E302-9D"
+  ],
+  "AIGALE": [
+    "AI-BR100"
+  ],
+  "CHECK POINT": [
+    "L-50",
+    "V-80",
+    "V-81"
+  ],
+  "GATEWAY": [
+    "7001"
+  ],
+  "ENDIAN": [
+    "ENDIAN 4I EDGE 200"
+  ],
+  "FRIENDLYARM": [
+    "NANOPI R2C",
+    "NANOPI R2S",
+    "NANOPI R5C"
+  ],
+  "BUFFALO": [
+    "BHR-4GRV",
+    "BHR-4GRV2",
+    "D",
+    "WCR-1166",
+    "WCR-1166DS",
+    "WHR-1166",
+    "WHR-1166D",
+    "WHR-300HP2",
+    "WHR-600D",
+    "WHR-G125",
+    "WHR-G300N",
+    "WHR-G301N",
+    "WHR-G54S",
+    "WHR-HP-G300N",
+    "WHR-HP-G54",
+    "WHR-HP-GN",
+    "WLAE-AG300N",
+    "WLI-H4-D1300",
+    "WLI-TX4-AG300N",
+    "WLI-TX4-G54HP",
+    "WMR-300",
+    "WSR-1166",
+    "WSR-1166DHP",
+    "WSR-2533",
+    "WSR-2533DHP2",
+    "WSR-2533DHPL",
+    "WSR-2533DHPL2",
+    "WSR-2533DHPLS",
+    "WSR-3000",
+    "WSR-3000AX4P",
+    "WSR-3200",
+    "WSR-3200AX4S",
+    "WSR-600DHP",
+    "WTR-M2133HP",
+    "WXR-1900",
+    "WXR-1900DHP",
+    "WXR-2533",
+    "WXR-2533DHP",
+    "WXR-5950",
+    "WXR-5950AX12",
+    "WZR-1750",
+    "WZR-1750DHP(D)",
+    "WZR-300HP",
+    "WZR-450HP2",
+    "WZR-600DHP",
+    "WZR-600DHP2",
+    "WZR-900DHP",
+    "WZR-AG300NH",
+    "WZR-AGL300NH",
+    "WZR-D1800H",
+    "WZR-HP-AG300H",
+    "WZR-HP-G300NH",
+    "WZR-HP-G300NH2",
+    "WZR-HP-G301NH",
+    "WZR-HP-G302H",
+    "WZR-HP-G450H",
+    "WZR-RS-G54"
+  ],
+  "FRYS": [
+    "FR-54RTR"
+  ],
+  "SANLINKING": [
+    "D240"
+  ],
+  "ASKEY": [
+    "RT4230W"
+  ],
+  "PACIFIC NETWORKS": [
+    "RT150M"
+  ],
+  "BEELINE": [
+    "SMARTBOX FLASH",
+    "SMARTBOX GIGA",
+    "SMARTBOX PRO",
+    "SMARTBOX TURBO",
+    "SMARTBOX TURBO+"
+  ],
+  "DIGINEO": [
+    "AC1200 PRO"
+  ],
+  "LIBREROUTER": [
+    "LIBREROUTER"
+  ],
+  "ARRIS": [
+    "TR4400"
+  ],
+  "MULTILASER": [
+    "RE027"
+  ],
+  "ADB": [
+    "P.DG A4001N1"
+  ],
+  "WIFIRE": [
+    "S1500.NBN"
+  ],
+  "BAIDU": [
+    "M-100"
+  ],
+  "YYETS": [
+    "LE1"
+  ],
+  "ASROCK": [
+    "G10"
+  ],
+  "EZVIZ": [
+    "CS-W3-WD1200G EUP"
+  ],
+  "7LINKS": [
+    "PX-4885"
+  ],
+  "RADXA": [
+    "E20C"
+  ],
+  "OPTION": [
+    "GLOBESURFER III"
+  ],
+  "I.ONIK": [
+    "CLOUD HUB"
+  ],
+  "REDMI": [
+    "AX5",
+    "AX5400",
+    "AX6",
+    "AX6000"
+  ]
+}
