@@ -2,7 +2,7 @@ name: Update Supported Devices
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Раз в неделю (воскресенье полночь)
+    - cron: '0 0 */3 * *' # Раз в три дня в полночь
   workflow_dispatch: # Возможность запустить вручную
 
 jobs:
