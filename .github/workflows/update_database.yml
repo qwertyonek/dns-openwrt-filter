@@ -1,0 +1,35 @@
+name: Update Supported Devices
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Раз в неделю (воскресенье полночь)
+  workflow_dispatch: # Возможность запустить вручную
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download latest ToH data
+        run: |
+          # Скачиваем свежий дамп ToH (JSON)
+          curl -L "https://openwrt.org/_media/toh_dump_tab_separated.json.gz" -o toh.json.gz
+          gunzip -f toh.json.gz
+          mv toh_dump_tab_separated.json toh.json
+
+      - name: Process data
+        run: python process_data.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add supported_devices.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update supported devices database" && git push)
