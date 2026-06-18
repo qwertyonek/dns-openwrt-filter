@@ -2,42 +2,20 @@ let supportedDevices = null;
 let filterEnabled = false;
 let debounceTimer = null;
 
-const GITHUB_DB_URL = 'https://raw.githubusercontent.com/qwertyonek/dns-openwrt-filter/main/supported_devices.json';
-const CACHE_KEY = 'openwrt_devices_cache';
-const CACHE_TIME_KEY = 'openwrt_devices_last_update';
-const UPDATE_INTERVAL = 24 * 60 * 60 * 1000; // 24 часа
-
 async function init() {
     try {
-        // 1. Пытаемся взять из кэша (chrome.storage)
-        const cached = await chrome.storage.local.get([CACHE_KEY, CACHE_TIME_KEY]);
-        const now = Date.now();
+        console.log('DNS OpenWrt Filter: Requesting database from background...');
+        let rawData = await chrome.runtime.sendMessage({ action: 'getDatabase' });
         
-        let rawData = null;
-        
-        if (cached[CACHE_KEY] && cached[CACHE_TIME_KEY] && (now - cached[CACHE_TIME_KEY] < UPDATE_INTERVAL)) {
-            rawData = cached[CACHE_KEY];
-            console.log('DNS OpenWrt Filter: Using cached database');
-            // В фоновом режиме попробуем обновить, если пора
-            tryUpdateDatabase();
-        } else {
-            // 2. Если в кэше нет или он старый — пробуем скачать с GitHub
-            console.log('DNS OpenWrt Filter: Fetching database from GitHub...');
-            rawData = await fetchRemoteDatabase();
-            
-            if (!rawData) {
-                // 3. Если GitHub недоступен — берем локальный файл (seed)
-                const url = chrome.runtime.getURL('supported_devices.json');
-                const response = await fetch(url);
-                rawData = await response.json();
-                console.log('DNS OpenWrt Filter: Using local fallback database');
-            } else {
-                // Сохраняем свежую базу в кэш
-                await chrome.storage.local.set({
-                    [CACHE_KEY]: rawData,
-                    [CACHE_TIME_KEY]: now
-                });
-            }
+        if (!rawData) {
+            console.log('DNS OpenWrt Filter: Background fetch failed, using local fallback...');
+            const url = chrome.runtime.getURL('supported_devices.json');
+            const response = await fetch(url);
+            rawData = await response.json();
+        }
+
+        if (!rawData) {
+            throw new Error('Could not load supported devices database');
         }
 
         // Оптимизируем данные
@@ -53,31 +31,6 @@ async function init() {
         observeDOM();
     } catch (e) {
         console.error('DNS OpenWrt Filter: Init failed', e);
-    }
-}
-
-async function fetchRemoteDatabase() {
-    try {
-        const response = await fetch(GITHUB_DB_URL);
-        if (response.ok) return await response.json();
-    } catch (e) {
-        console.warn('DNS OpenWrt Filter: Could not fetch from GitHub', e);
-    }
-    return null;
-}
-
-async function tryUpdateDatabase() {
-    // Тихое обновление в фоне, если данные устарели
-    const cached = await chrome.storage.local.get([CACHE_TIME_KEY]);
-    if (!cached[CACHE_TIME_KEY] || (Date.now() - cached[CACHE_TIME_KEY] > UPDATE_INTERVAL)) {
-        const rawData = await fetchRemoteDatabase();
-        if (rawData) {
-            await chrome.storage.local.set({
-                [CACHE_KEY]: rawData,
-                [CACHE_TIME_KEY]: Date.now()
-            });
-            console.log('DNS OpenWrt Filter: Background database update successful');
-        }
     }
 }
 

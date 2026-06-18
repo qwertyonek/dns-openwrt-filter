@@ -4,6 +4,9 @@
   "version": "1.1",
   "description": "Фильтр для поиска роутеров с поддержкой OpenWrt на сайте DNS",
   "permissions": ["storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
   "host_permissions": [
     "https://raw.githubusercontent.com/qwertyonek/dns-openwrt-filter/*"
   ],
