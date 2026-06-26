@@ -8,6 +8,8 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -15,14 +17,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.12'
 
       - name: Download latest ToH data
         run: |
-          # Скачиваем свежий дамп ToH (JSON)
-          curl -L "https://openwrt.org/_media/toh_dump_tab_separated.json.gz" -o toh.json.gz
-          gunzip -f toh.json.gz
-          mv toh_dump_tab_separated.json toh.json
+          # Актуальный дамп ToH (старый .json.gz в _media удалён с wiki)
+          curl -fSL "https://openwrt.org/toh.json" -o toh.json
 
       - name: Process data
         run: python process_data.py
