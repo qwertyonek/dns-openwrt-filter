@@ -1244,6 +1244,9 @@
     "WSM20",
     "WX5600-T0"
   ],
+  "PPLINK": [
+    "S21"
+  ],
   "FORTINET": [
     "FORTIGATE 30E",
     "FORTIGATE 50E",
@@ -1945,9 +1948,6 @@
     "RUTX10",
     "RUTX11",
     "RUTX50"
-  ],
-  "PPLINK": [
-    "S21"
   ],
   "ZLMNET": [
     "MIFIF10N"
