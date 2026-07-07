@@ -161,6 +161,9 @@
     "APU3C2",
     "APU3C4"
   ],
+  "PPLINK": [
+    "S21"
+  ],
   "I-O DATA": [
     "ETG3-R",
     "WN-AC1167DGR",
@@ -1243,9 +1246,6 @@
     "WAP3205",
     "WSM20",
     "WX5600-T0"
-  ],
-  "PPLINK": [
-    "S21"
   ],
   "FORTINET": [
     "FORTIGATE 30E",
