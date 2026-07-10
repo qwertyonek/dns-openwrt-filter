@@ -161,9 +161,6 @@
     "APU3C2",
     "APU3C4"
   ],
-  "PPLINK": [
-    "S21"
-  ],
   "I-O DATA": [
     "ETG3-R",
     "WN-AC1167DGR",
@@ -176,6 +173,7 @@
     "WN-AX1167GR",
     "WN-AX1167GR2",
     "WN-AX2033GR",
+    "WN-AX2033GR2",
     "WN-DAX3000GR",
     "WN-DEAX1800GR",
     "WN-DX1167R",
@@ -1247,6 +1245,9 @@
     "WSM20",
     "WX5600-T0"
   ],
+  "PPLINK": [
+    "S21"
+  ],
   "FORTINET": [
     "FORTIGATE 30E",
     "FORTIGATE 50E",
@@ -1619,6 +1620,7 @@
     "ARCHER A6",
     "ARCHER A7",
     "ARCHER A9",
+    "ARCHER AX21",
     "ARCHER AX23",
     "ARCHER C1200",
     "ARCHER C2 AC750",
