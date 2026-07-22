@@ -691,6 +691,9 @@
   "TELCO ELECTRONICS": [
     "T1"
   ],
+  "PPLINK": [
+    "S21"
+  ],
   "COMFAST": [
     "CF-E120A",
     "CF-E313AC",
@@ -1250,9 +1253,6 @@
     "WAP3205",
     "WSM20",
     "WX5600-T0"
-  ],
-  "PPLINK": [
-    "S21"
   ],
   "FORTINET": [
     "FORTIGATE 30E",
@@ -1904,6 +1904,7 @@
     "WRH-300CR"
   ],
   "MIKROTIK": [
+    "CHATEAU 5G R17 AX",
     "HAP AC",
     "HAP AC²",
     "HAP AC³",
