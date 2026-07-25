@@ -691,15 +691,13 @@
   "TELCO ELECTRONICS": [
     "T1"
   ],
-  "PPLINK": [
-    "S21"
-  ],
   "COMFAST": [
     "CF-E120A",
     "CF-E313AC",
     "CF-E314N",
     "CF-E316N",
     "CF-E560AC",
+    "CF-EW84",
     "CF-WR617AC",
     "CF-WR632AX",
     "CF-WR650AC",
@@ -744,6 +742,9 @@
   "SOLIDRUN": [
     "CLEARFOG BASE",
     "CLEARFOG PRO"
+  ],
+  "BAZIS": [
+    "AX3000WM"
   ],
   "CETRON": [
     "CT3003"
@@ -1253,6 +1254,9 @@
     "WAP3205",
     "WSM20",
     "WX5600-T0"
+  ],
+  "PPLINK": [
+    "S21"
   ],
   "FORTINET": [
     "FORTIGATE 30E",
