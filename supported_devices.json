@@ -139,6 +139,9 @@
   "ITUS NETWORKS": [
     "SHIELD"
   ],
+  "AIRTEL": [
+    "AIRFIBER AAP4221ZY"
+  ],
   "Z-ROUTER": [
     "ZR-2660"
   ],
@@ -1364,6 +1367,9 @@
     "WVRTM-127ACN",
     "WVRTM-130ACN"
   ],
+  "ALWAYLINK": [
+    "M10K43"
+  ],
   "TENBAY": [
     "T-MB5EU-V01",
     "WR3000K"
@@ -1873,6 +1879,7 @@
     "AP7621-NV1",
     "AP7622-WH1",
     "AP7623-A02",
+    "AP7986",
     "AWAPN2403",
     "AWM-EVB",
     "AWM002",
