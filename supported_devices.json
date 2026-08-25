@@ -833,6 +833,7 @@
     "RT-N18U",
     "RT-N53",
     "RT-N56U",
+    "RT-N65U",
     "RT-N66U",
     "RT-N66W",
     "SRT-AC1900 ONHUB",
@@ -1542,6 +1543,7 @@
     "UNIFI SECURITY GATEWAY",
     "UNIFI SECURITY GATEWAY 3P",
     "UNIFI SECURITY GATEWAY PRO (USG-PRO-4)",
+    "UNIFI TRAVEL ROUTER",
     "USG-PRO-4"
   ],
   "SNR": [
@@ -2076,7 +2078,8 @@
     "D240"
   ],
   "ASKEY": [
-    "RT4230W"
+    "RT4230W",
+    "SBE1V1K"
   ],
   "PACIFIC NETWORKS": [
     "RT150M"
