@@ -286,6 +286,7 @@
   ],
   "NOKIA": [
     "EA0326GMP",
+    "XG-040G-MD",
     "XG-040G-MF"
   ],
   "STRONG": [
@@ -1004,7 +1005,7 @@
     "PWH2004"
   ],
   "BELKIN": [
-    "AC 1750 DB",
+    "AC1750 DB",
     "F5D8230-4",
     "F5D8235-4",
     "F7D3301 (SHARE MAX)",
@@ -1014,7 +1015,7 @@
     "F7D4401 (PLAY)",
     "F9J1108",
     "F9K1109",
-    "F9K1115 (AC 1750 DB)",
+    "F9K1115 (AC1750 DB)",
     "PLAY",
     "PLAY MAX",
     "RT1800",
@@ -1756,6 +1757,7 @@
     "GW6200"
   ],
   "SPECTRUM": [
+    "RAC2V1K",
     "SAX1V1K"
   ],
   "LUXUL": [
