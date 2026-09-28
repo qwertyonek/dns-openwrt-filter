@@ -485,6 +485,9 @@
     "WRVS4400N"
   ],
   "NETCRAZE": [
+    "GIGA",
+    "NC-1012",
+    "NC-1012 (GIGA)",
     "NC-1812"
   ],
   "RUIJIE": [
@@ -888,6 +891,7 @@
     "EA6350",
     "EA6500",
     "EA7300",
+    "EA7450",
     "EA7500",
     "EA8100",
     "EA8300",
@@ -1143,6 +1147,7 @@
     "EXPLORER",
     "EXTRA",
     "GIGA",
+    "HERO/GIGA",
     "HOPPER",
     "KEENETIC",
     "KEENETIC 4G",
@@ -1157,6 +1162,8 @@
     "KEENETIC VIVA",
     "KN-1010",
     "KN-1010 (GIGA)",
+    "KN-1012",
+    "KN-1012 (HERO/GIGA)",
     "KN-1110",
     "KN-1110 (START)",
     "KN-1111",
@@ -1200,6 +1207,7 @@
     "EXPLORER",
     "EXTRA",
     "GIGA",
+    "HERO/GIGA",
     "HOPPER",
     "KEENETIC",
     "KEENETIC 4G",
@@ -1214,6 +1222,8 @@
     "KEENETIC VIVA",
     "KN-1010",
     "KN-1010 (GIGA)",
+    "KN-1012",
+    "KN-1012 (HERO/GIGA)",
     "KN-1110",
     "KN-1110 (START)",
     "KN-1111",
