@@ -245,6 +245,9 @@
     "MR85X",
     "MR90X"
   ],
+  "TUOSHI": [
+    "LT22M 4G WIRELESS ROUTER"
+  ],
   "ALCATEL": [
     "HH40V"
   ],
@@ -1252,7 +1255,9 @@
     "KN-3811",
     "KN-3811 (HOPPER)",
     "LAUNCHER",
+    "LTE3301-M209",
     "LTE3301-PLUS",
+    "LTE3301-Q222",
     "LTE5398-M904",
     "LTE7490-M904",
     "NBG-419N",
@@ -1943,6 +1948,7 @@
     "WRC-X1800GS",
     "WRC-X3000GS2",
     "WRC-X3200GST3",
+    "WRC-X6000QS",
     "WRH-300CR"
   ],
   "MIKROTIK": [
