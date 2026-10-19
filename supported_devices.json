@@ -289,6 +289,7 @@
   ],
   "NOKIA": [
     "EA0326GMP",
+    "VALYRIAN",
     "XG-040G-MD",
     "XG-040G-MF"
   ],
@@ -607,6 +608,9 @@
   ],
   "SAMKNOWS": [
     "SK-WB8"
+  ],
+  "QUANTUM FIBER": [
+    "Q1000K"
   ],
   "DEVOLO": [
     "DLAN HOTSPOT",
@@ -1084,6 +1088,7 @@
     "R6260",
     "R6300",
     "R6350",
+    "R6400",
     "R6700",
     "R6800",
     "R6850",
@@ -1332,9 +1337,6 @@
     "NB4",
     "NEUFBOX4 (NB4)"
   ],
-  "8DEVICES": [
-    "HABANERO DVK"
-  ],
   "LB-LINK": [
     "BL-W1200"
   ],
@@ -1415,6 +1417,7 @@
     "H500-S LOWI",
     "H500-S VFES",
     "IP1006RRV2",
+    "JCOW414",
     "SHG2500"
   ],
   "OCEDO": [
@@ -1960,10 +1963,12 @@
     "HAP AC³",
     "HEX",
     "HEX LITE",
+    "HEX POE",
     "HEX POE LITE",
     "HEX S",
     "LHG 2",
     "POWERBOX",
+    "POWERBOX PRO",
     "RB2011IL",
     "RB2011ILS",
     "RB2011L",
