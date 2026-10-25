@@ -15,6 +15,7 @@
     "M1300",
     "M1800",
     "M3000",
+    "P2",
     "R700",
     "RE3000",
     "TR1200",
@@ -91,6 +92,9 @@
   "GATONETWORKS": [
     "GDSP"
   ],
+  "LTC": [
+    "VELO7 MAX"
+  ],
   "4G SYSTEMS": [
     "ACCESSCUBE (MESHCUBE)",
     "MESHCUBE",
@@ -137,6 +141,10 @@
     "RT-FL-1",
     "RT-SF-1",
     "S1010"
+  ],
+  "JIOROUTER": [
+    "AX6000 JIDU6101",
+    "AX6000 JIDU6J01"
   ],
   "ITUS NETWORKS": [
     "SHIELD"
@@ -307,6 +315,7 @@
   ],
   "HUASIFEI": [
     "WH3000",
+    "WH3000R",
     "WS1208V2"
   ],
   "SOPHOS": [
@@ -345,9 +354,12 @@
     "841-T6",
     "SDG-8612",
     "SDG-8614",
+    "SDG-8712",
+    "SDG-8732",
     "SDG-8733",
     "SDG-8733A",
     "SDG-8734",
+    "SDG-9000",
     "SR400AC",
     "SR505N"
   ],
@@ -365,6 +377,9 @@
     "ALL0258N",
     "ALL0277",
     "ALL0305"
+  ],
+  "HIVETON": [
+    "H5000M"
   ],
   "YOUKU": [
     "X2",
@@ -1197,6 +1212,8 @@
     "KN-1711 (EXTRA)",
     "KN-1713",
     "KN-1713 (CARRIER)",
+    "KN-1812",
+    "KN-1812 (TITAN)",
     "KN-1910",
     "KN-1910 (VIVA)",
     "KN-3010",
@@ -1207,6 +1224,7 @@
     "SPEEDSTER",
     "START",
     "START/STARTER",
+    "TITAN",
     "VIVA"
   ],
   "ZYXEL": [
@@ -1257,6 +1275,8 @@
     "KN-1711 (EXTRA)",
     "KN-1713",
     "KN-1713 (CARRIER)",
+    "KN-1812",
+    "KN-1812 (TITAN)",
     "KN-1910",
     "KN-1910 (VIVA)",
     "KN-3010",
@@ -1288,6 +1308,7 @@
     "START/STARTER",
     "T-56",
     "TELENOR",
+    "TITAN",
     "VIVA",
     "WAP3205",
     "WSM20",
@@ -1584,6 +1605,7 @@
   "AVM": [
     "FRITZ!BOX 4020",
     "FRITZ!BOX 4040",
+    "FRITZ!BOX 4050",
     "FRITZ!BOX 5490",
     "FRITZ!BOX 7490",
     "FRITZ!BOX 7520",
@@ -1638,6 +1660,9 @@
   ],
   "LONGDATA": [
     "APS 256"
+  ],
+  "GLOBITEL": [
+    "BT-R320"
   ],
   "HUMAX": [
     "E10",
@@ -1805,6 +1830,9 @@
     "HAZE (WNC LVRP)",
     "WNC LVRP"
   ],
+  "LIVINET": [
+    "LI320"
+  ],
   "SITECOM": [
     "GREYHOUND",
     "WL-341",
@@ -1954,7 +1982,9 @@
     "WRC-G01",
     "WRC-X1800GS",
     "WRC-X3000GS2",
+    "WRC-X3000GS3",
     "WRC-X3200GST3",
+    "WRC-X6000GSD",
     "WRC-X6000QS",
     "WRH-300CR"
   ],
