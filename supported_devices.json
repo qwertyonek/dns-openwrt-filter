@@ -290,6 +290,8 @@
     "FIREBOX T10-W (DS3AE3)",
     "FIREBOX T15 (MS1AE3)",
     "FIREBOX T15-W (MS1AE3W)",
+    "FIREBOX T40 (FS4AE5)",
+    "FS4AE5",
     "MS1AE3",
     "MS1AE3W",
     "XTM330"
@@ -1537,11 +1539,14 @@
     "WG2626",
     "WG3526",
     "WR8305RT",
+    "Z8105AX",
     "ZBT-WE2426-B",
     "ZBT-Z800AX",
     "ZBT-Z8102AX",
     "ZBT-Z8103AX",
-    "ZBT-Z8103AX-PRO"
+    "ZBT-Z8103AX-PRO",
+    "ZBT-Z8106AX",
+    "ZBT-Z8803BE"
   ],
   "CELL C": [
     "RTL30VW"
@@ -1691,6 +1696,7 @@
     "WL-WN551X3",
     "WL-WN578A2",
     "WL-WN586X3",
+    "WL-WNT100X3",
     "WN531AX2"
   ],
   "TP-LINK": [
@@ -1745,6 +1751,8 @@
     "ONHUB TGR1900",
     "TALON AD7200",
     "TD-W8968",
+    "TL-7DR7230",
+    "TL-7DR7250",
     "TL-MR10U",
     "TL-MR11U",
     "TL-MR12U",
@@ -1937,6 +1945,9 @@
     "DM202",
     "DM203",
     "DW22D"
+  ],
+  "TERALINK": [
+    "TL3020"
   ],
   "ASIARF": [
     "AP2620",
