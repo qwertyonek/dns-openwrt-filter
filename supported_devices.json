@@ -273,6 +273,9 @@
     "HC5962",
     "HC6361"
   ],
+  "BENTON": [
+    "SN-R1"
+  ],
   "BOLT": [
     "ARION",
     "BL100"
@@ -576,6 +579,7 @@
     "FLINT",
     "FLINT 2",
     "FLINT 3",
+    "FLINT 4",
     "GL-A1300 (SLATE PLUS)",
     "GL-AR150",
     "GL-AR300",
@@ -590,6 +594,7 @@
     "GL-B2200 (VELICA)",
     "GL-B3000 (MARBLE)",
     "GL-BE10000",
+    "GL-BE14000 (FLINT 4)",
     "GL-BE9300 (FLINT 3)",
     "GL-MIFI",
     "GL-MT1300 (BERYL)",
@@ -1697,6 +1702,7 @@
     "X8"
   ],
   "WAVLINK": [
+    "HALO BASE PRO",
     "QUANTUM D4",
     "QUANTUM D6",
     "QUANTUM DAX",
@@ -2028,6 +2034,7 @@
     "HEX POE LITE",
     "HEX S",
     "LHG 2",
+    "MIKROTIK HAP AC2RBD52G-5HACD2HND-TC (HAP AC²)",
     "POWERBOX",
     "POWERBOX PRO",
     "RB2011IL",
@@ -2050,7 +2057,6 @@
     "RB751U-2HND",
     "RB760IGS (HEX S)",
     "RB962UIGS-5HACT2HNT (HAP AC)",
-    "RBD52G-5HACD2HND-TC (HAP AC²)",
     "RBD53IG-5HACD2HND (HAP AC³)",
     "RBLHG-2ND (LHG 2)",
     "RBSXTSQ2ND (SXTSQ LITE2)",
