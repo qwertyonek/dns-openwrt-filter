@@ -1346,8 +1346,10 @@
     "FORTIGATE 50E",
     "FORTIGATE 51E",
     "FORTIGATE 52E",
+    "FORTIWIFI 30E (FWF-30E)",
     "FORTIWIFI 50E-2R",
-    "FORTIWIFI 51E"
+    "FORTIWIFI 51E",
+    "FWF-30E"
   ],
   "ENGENIUS": [
     "ECB1750",
@@ -1544,6 +1546,9 @@
   ],
   "IMOU": [
     "HX21"
+  ],
+  "RIPE": [
+    "ATLAS PROBE"
   ],
   "ZBT": [
     "WA-05",
@@ -2047,6 +2052,7 @@
     "RB2011UIAS-2HND",
     "RB493G",
     "RB5009UG+S+IN",
+    "RB5009UPR+S+IN",
     "RB750GR2 (HEX)",
     "RB750GR3",
     "RB750P-PBR2 (POWERBOX)",
