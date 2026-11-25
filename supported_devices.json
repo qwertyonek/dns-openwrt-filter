@@ -125,6 +125,10 @@
   "AMPED WIRELESS": [
     "ALLY-R1900K"
   ],
+  "LINK": [
+    "ARTHUR",
+    "NN6000 (ARTHUR)"
+  ],
   "PISEN": [
     "CLOUD EASY POWER",
     "TS-D084",
@@ -410,6 +414,9 @@
     "ZXECS EBG3130",
     "ZXHN H218N"
   ],
+  "ZTE`": [
+    "T5400"
+  ],
   "KROKS": [
     "KNDRT31R16",
     "KNDRT31R19",
@@ -561,7 +568,8 @@
     "MSG1500 X.00"
   ],
   "WALLYS": [
-    "DR344-NAS27"
+    "DR344-NAS27",
+    "DR5018S"
   ],
   "GL.INET": [
     "6408A",
@@ -813,7 +821,6 @@
   ],
   "ASUS": [
     "4G-AX56",
-    "AX55",
     "GT-AC5300",
     "LYRA (MAP-AC2200)",
     "MAP-AC2200",
@@ -940,6 +947,8 @@
     "EA9200",
     "EA9500",
     "HOMEWRK",
+    "HYDRA 6",
+    "MR2000 (HYDRA 6)",
     "MR5500",
     "MR6350",
     "MR7310",
@@ -1436,6 +1445,9 @@
     "TEW-827DRU",
     "TEW-829DRU"
   ],
+  "ZEARTS": [
+    "D50 5G"
+  ],
   "PETATEL": [
     "PSR-680W"
   ],
@@ -1494,6 +1506,9 @@
   "HANYANG": [
     "CJ-HELLO HYC-G920"
   ],
+  "XUNISON": [
+    "EXIGO HUB D50 5G"
+  ],
   "ROUTERICH": [
     "AX1800",
     "AX3000",
@@ -1532,7 +1547,8 @@
     "A10",
     "MR3000D-CI",
     "PZ-L8",
-    "RAX3000M"
+    "RAX3000M",
+    "RAX3000Q"
   ],
   "NETCORE": [
     "N30PRO",
@@ -1684,6 +1700,7 @@
     "MIWIFI NANO",
     "MIWIFI R4",
     "R4AC",
+    "REDMI AX5400",
     "REDMI AX6",
     "REDMI AX6000",
     "REDMI AX6S",
@@ -2023,6 +2040,7 @@
     "WRC-X1800GS",
     "WRC-X3000GS2",
     "WRC-X3000GS3",
+    "WRC-X3000GST2",
     "WRC-X3200GST3",
     "WRC-X6000GSD",
     "WRC-X6000QS",
