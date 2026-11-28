@@ -948,6 +948,7 @@
     "EA9500",
     "HOMEWRK",
     "HYDRA 6",
+    "LN6001 (VELOP WRT PRO 7)",
     "MR2000 (HYDRA 6)",
     "MR5500",
     "MR6350",
@@ -974,6 +975,7 @@
     "MX8500",
     "RTP300",
     "SPNMX56",
+    "VELOP WRT PRO 7",
     "WHW01",
     "WHW03",
     "WRT1200AC",
@@ -1157,6 +1159,7 @@
     "RBR40",
     "RBR50",
     "RBR750",
+    "RBR850",
     "RBS40",
     "RBS50",
     "SRR60",
@@ -1867,7 +1870,8 @@
   ],
   "SPECTRUM": [
     "RAC2V1K",
-    "SAX1V1K"
+    "SAX1V1K",
+    "SBE1V1K"
   ],
   "LUXUL": [
     "ABR-4500",
@@ -2104,6 +2108,9 @@
     "RUTX11",
     "RUTX50"
   ],
+  "TCL": [
+    "LINKHUB HH500V"
+  ],
   "ZLMNET": [
     "MIFIF10N"
   ],
@@ -2207,6 +2214,7 @@
   ],
   "ASKEY": [
     "RT4230W",
+    "RTQ7300T",
     "SBE1V1K"
   ],
   "PACIFIC NETWORKS": [
